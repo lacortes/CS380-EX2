@@ -1,6 +1,7 @@
 // Luis Cortes
 // CS 380
 // Exercise 2
+//
 
 import java.io.InputStream;
 import java.io.InputStreamReader;
